@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: My name is Justin, and I will walk you thru the process to become an expert in Apache Spark
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
